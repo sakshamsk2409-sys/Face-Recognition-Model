@@ -55,4 +55,4 @@ deepface
 tf-keras
 Numpy
 
-Dataset: [Hollywood Celebrity Facial Recognotion Dataset]((https://www.kaggle.com/datasets/bhaveshmittal/celebrity-face-recognition-dataset?))
+Dataset: https://www.kaggle.com/datasets/bhaveshmittal/celebrity-face-recognition-dataset?
