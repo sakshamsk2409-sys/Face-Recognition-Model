@@ -9,21 +9,6 @@ Tech Stack
 - tf-keras
 - NumPy
 
-Project Structure
-
-FaceRecognition/
-│
-├── dataset/
-│   ├── Person_1/
-│   ├── Person_2/
-│   ├── Person_3/
-│   └── ...
-│
-├── test/
-│   └── test.jpg
-│
-└── main.py
-
 Installation
 
 Clone the repository:
@@ -44,6 +29,7 @@ Run:
 python main.py
 
  Sample Output:
+ 
 ===== FACE RECOGNITION RESULT =====
 
 Recognized Person : Person_1
