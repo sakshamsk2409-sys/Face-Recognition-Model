@@ -12,7 +12,7 @@ Tech Stack
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/FaceRecognition.git
+git clone https://github.com/sakshamsk2409-sys/FaceRecognition.git
 cd FaceRecognition
 
 Install the required packages:
